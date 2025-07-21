@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import './App.css';
 const logo = 'https://i.ibb.co/jZ9n6QSQ/Hotel-Akaibara-Logo-with-Wave-Icon.png';
